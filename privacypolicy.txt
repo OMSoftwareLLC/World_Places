@@ -50,10 +50,10 @@ We may disclose User Provided and Automatically Collected Information:
 
 Automatic Data Collection and Advertising
 
-We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application which helps us keep the cost of the Application free. Advertisers and advertising networks use some of the information collected by the Application, including, but not limited to, the unique identification ID of your mobile device and your mobile telephone number. These third parties may also obtain anonymous information about other applications you’ve downloaded to your mobile device, the mobile websites you visit, your non-precise location information (e.g., your zip code), and other non- precise location information in order to help analyze and serve anonymous targeted advertising on the Application and elsewhere.
+We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application which helps us keep the cost of the Application free. Advertisers and advertising networks use some of the information collected by the Application, including, but not limited to, the unique identification ID of your mobile device and your mobile telephone number. These third parties may also obtain anonymous information about other applications you've downloaded to your mobile device, the mobile websites you visit, your non-precise location information (e.g., your zip code), and other non- precise location information in order to help analyze and serve anonymous targeted advertising on the Application and elsewhere.
 
 
-If you’d like to opt-out from third party use of this type of information to help serve targeted advertising, please visit the section entitled "Opt-out" below.
+If you'd like to opt-out from third party use of this type of information to help serve targeted advertising, please visit the section entitled "Opt-out" below.
 
 
 
@@ -73,7 +73,7 @@ No data provided by the user is retained for our usage. If you have any question
 
 Children
 
-We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at privacy@omsoftwarellc.com. We will delete such information from our files within a reasonable time. We take precaution and are proactive in ensuring compliance with the Children’s Online Privacy Protection Act ("COPPA").
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at privacy@omsoftwarellc.com. We will delete such information from our files within a reasonable time. We take precaution and are proactive in ensuring compliance with the Children's Online Privacy Protection Act ("COPPA").
 
 
 Security
