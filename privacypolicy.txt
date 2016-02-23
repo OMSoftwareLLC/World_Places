@@ -1,0 +1,96 @@
+Last Updated:February 15, 2016
+
+This privacy policy governs your use of the software application World Places ("Application") for mobile devices that was created by OM Software LLC. The Application is an arcade game with highscores and achievements.<br><br>
+
+General
+We are using the Google Maps API(s). Please refer to the Google Privacy Policy found here https://www.google.com/policies/privacy.
+
+
+What information does the Application obtain and how is it used?
+
+User Provided Information
+
+This Application does not obtain information for our usage. Signing in within the Application is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you sign in within the Application. Some information may be collected through our ad networks (Admob), please consult their privacy policies and terms of service for further information.
+
+
+Automatically Collected Information
+
+In addition, the Application itself does not but the ad mediators and ad networks may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
+
+Does the Application collect precise real time location information of the device?
+
+When you visit the mobile application, we may use GPS technology (or other similar technology) to determine your current location in order to provide some of the services the application offers. We will not share your current location with other users or partners.
+
+If you do not want us to use your location for the purposes set forth above, you should turn off the location services for the mobile application located in your account settings or in your mobile phone settings and/or within the mobile application.
+
+Do third parties see and/or have access to information obtained by the Application?
+
+Yes. We will share your information with third parties only in the ways that
+are described in this privacy statement.
+
+	- Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+
+	- Google's use of the DoubleClick cookie enables it and its partners to serve ads to users based on their visit to your sites and/or other sites on the Internet.
+
+	- Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings (http://www.google.com/ads/preferences/). (Alternatively, you can opt out of a third-party vendor's use of cookies for interest based advertising by visiting aboutads.info.)
+	- Visitors of the third-party vendors and ad networks serve ads on this application. The cookies of other third-party vendors or ad networks may be used to serve ads on this application.
+
+We may disclose User Provided and Automatically Collected Information:
+
+	- as required by law, such as to comply with a subpoena, or similar legal process;
+
+	- when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+
+	- with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+
+	- if OM Software LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+
+	- to advertisers and third party advertising networks and analytics companies as described in the section below
+
+
+Automatic Data Collection and Advertising
+
+We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application which helps us keep the cost of the Application free. Advertisers and advertising networks use some of the information collected by the Application, including, but not limited to, the unique identification ID of your mobile device and your mobile telephone number. These third parties may also obtain anonymous information about other applications you’ve downloaded to your mobile device, the mobile websites you visit, your non-precise location information (e.g., your zip code), and other non- precise location information in order to help analyze and serve anonymous targeted advertising on the Application and elsewhere.
+
+
+If you’d like to opt-out from third party use of this type of information to help serve targeted advertising, please visit the section entitled "Opt-out" below.
+
+
+
+What are my opt-out rights?
+
+There are multiple opt-out options for users of this Application:
+
+Opt-out of all information collection by uninstalling the Application: You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes that may be available as part of your mobile device or via the mobile application marketplace or network.
+
+Opt-out from the use of information to serve targeted advertising by advertisers and/or third party network advertisers: you may at any time opt-out from further allowing us to have access to your location data by turning off your geo-location functionalities.
+
+
+Data Retention Policy, Managing Your Information
+
+No data provided by the user is retained for our usage. If you have any questions or concerns please contact us at privacy@omsoftwarellc.com and we will respond in a reasonable time.
+
+
+Children
+
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at privacy@omsoftwarellc.com. We will delete such information from our files within a reasonable time. We take precaution and are proactive in ensuring compliance with the Children’s Online Privacy Protection Act ("COPPA").
+
+
+Security
+
+We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+
+
+Changes
+
+This Privacy Policy may be updated from time to time for any reason. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+
+
+Your Consent
+
+By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing," means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
+
+
+Contact us
+
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at privacy@omsoftwarellc.com.
