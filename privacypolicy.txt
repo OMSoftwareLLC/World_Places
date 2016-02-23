@@ -1,6 +1,6 @@
-Last Updated:February 15, 2016
+Last Updated: February 15, 2016
 
-This privacy policy governs your use of the software application World Places ("Application") for mobile devices that was created by OM Software LLC. The Application is an arcade game with highscores and achievements.<br><br>
+This privacy policy governs your use of the software application World Places ("Application") for mobile devices that was created by OM Software LLC. The Application is an arcade game with highscores and achievements.
 
 General
 We are using the Google Maps API(s). Please refer to the Google Privacy Policy found here https://www.google.com/policies/privacy.

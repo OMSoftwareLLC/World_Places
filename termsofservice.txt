@@ -1,6 +1,6 @@
 These Terms of Service are the final agreement between you, user of World Places, and OM Software LLC (also referred to as "OM Software," "us" or "we"). World Places is owned and operated by OM Software LLC. By using the World Places application (the "Services") you agree to the following terms, including the World Places Privacy Policy.
 
-	1. General. By using this application, all users are bound by Google’s Terms of Service found here https://www.google.com/intl/en/policies/terms.
+	1. General. By using this application, all users are bound by Google's Terms of Service found here https://www.google.com/intl/en/policies/terms.
 
 	2. Eligibility. You represent and warrant that if acting on behalf of an entity or any third party, that you have the legal authority to represent that entity / third party.
 	
@@ -18,7 +18,7 @@ These Terms of Service are the final agreement between you, user of World Places
 
 	7. Feedback. We encourage your feedback, in the form of reviews, comments, and suggestions or recommendations for modifications, improvements or changes to the Services or the site that you may choose in your sole discretion to provide us from time to time ("Feedback"). When you provide Feedback, you grant us, under all right, title and interest in and to the Feedback, a non-exclusive, royalty-free, worldwide, transferable, sub-licensable, irrevocable, perpetual license to use that Feedback or to incorporate it into the Website or other products or services.
 	
-	8. Termination and survival. You can terminate this agreement by uninstalling World Places. Articles 2 (Intellectual Property and Data Security), 3 (Disclaimer of Warranties, Limitations of Liability and Indemnification), 4 (Restriction of Use), 5 (Third-party Links), 6 (Feedback), 7 (Termination and Survival), 8 (Governing Law and Jurisdiction), and 9 (Waiver and Severability) will survive any termination or expiration of these Terms.
+	8. Termination and survival. You can terminate this agreement by uninstalling World Places. Articles 3 (Intellectual Property and Data Security), 4 (Disclaimer of Warranties, Limitations of Liability and Indemnification), 5 (Restriction of Use), 6 (Third-party Links), 7 (Feedback), 8 (Termination and Survival), 9 (Governing Law and Jurisdiction), and 10 (Waiver and Severability) will survive any termination or expiration of these Terms.
 
 	9. Governing law and Jurisdiction. These Terms of Service and any dispute or claim arising out of, or related to them, shall be governed by and construed in accordance with the internal laws of the State of New York without giving effect to any choice or conflict of law provision or rule.
 
