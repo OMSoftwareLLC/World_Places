@@ -5,6 +5,7 @@ This privacy policy governs your use of the software application World Places ("
 General
 We are using the Google Maps API(s). Please refer to the Google Privacy Policy found here https://www.google.com/policies/privacy.
 
+We are using the Google Places API(s). Please refer to the Google Privacy Policy found here https://www.google.com/privacy.
 
 What information does the Application obtain and how is it used?
 
